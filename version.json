@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "min_version": "1.0.0",
   "download_url": "https://github.com/babygiovanni777/drumscan/releases/latest",
-  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.0/drumscan-mac.zip",
-  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.0/drumscan.exe",
-  "changelog": "v1.2.0 - Hierarchical Organization\n\n• Hierarchical folder structure\n  - Drums/Kicks, Drums/Hats/Open, Melodics/Synths, etc.\n• Post-scan summary with stats in GUI\n• Smart recommendations after scan\n• Open Folder / Open Report buttons\n• 26 categories with 400+ keywords\n• 79% auto-categorization rate\n• 12GB duplicate detection on test library",
+  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.2/drumscan-mac.zip",
+  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.2/drumscan.exe",
+  "changelog": "v1.2.2 - Production Ready\n\n• Gumroad license integration\n• Machine-bound activation\n• Offline license support",
   "release_date": "2025-01-23",
   "urgent": false,
   "message": ""
