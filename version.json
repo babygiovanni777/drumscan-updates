@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "min_version": "1.0.0",
   "download_url": "https://github.com/babygiovanni777/drumscan/releases/latest",
-  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.3/drumscan-mac.zip",
-  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.3/drumscan.exe",
-  "changelog": "v1.2.3 - Smart Inheritance\n\n• Uses parent folder names to categorize unknown filenames\n• Massive reduction in Unsorted on large libraries\n• GUI now shows consistent stats (same as report)\n• Suggestions are quieter when Unsorted is already low",
-  "release_date": "2026-01-24",
+  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.4/drumscan-mac.zip",
+  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.4/drumscan.exe",
+  "changelog": "v1.2.4 - Accuracy & Refinement\n\n• New: Review Mode - Post-scan UI to verify and correct sorting accuracy.\n• New: Category Wizard - Propose and apply keyword improvements based on your review decisions.\n• New: Add custom categories on the fly during review.\n• Improved: Hierarchical folders (Drums/Hats/Open, Melodics/Synths).\n• Fixed: UI alignment and spacebar audio preview issues.\n• Fixed: SSL certificate validation for update checker.",
+  "release_date": "2025-01-24",
   "urgent": false,
   "message": ""
 }
