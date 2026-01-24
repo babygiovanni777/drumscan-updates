@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "min_version": "1.0.0",
   "download_url": "https://github.com/babygiovanni777/drumscan/releases/latest",
-  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.2/drumscan-mac.zip",
-  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.2/drumscan.exe",
-  "changelog": "v1.2.2 - Production Ready\n\n• Gumroad license integration\n• Machine-bound activation\n• Offline license support",
-  "release_date": "2025-01-23",
+  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.3/drumscan-mac.zip",
+  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.2.3/drumscan.exe",
+  "changelog": "v1.2.3 - Smart Inheritance\n\n• Uses parent folder names to categorize unknown filenames\n• Massive reduction in Unsorted on large libraries\n• GUI now shows consistent stats (same as report)\n• Suggestions are quieter when Unsorted is already low",
+  "release_date": "2026-01-24",
   "urgent": false,
   "message": ""
 }
