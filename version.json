@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "min_version": "1.0.0",
   "download_url": "https://github.com/babygiovanni777/drumscan/releases/latest",
   "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.3.0/drumscan-mac.zip",
   "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.3.0/drumscan.exe",
-  "changelog": "v1.3.0 - New Features and Improvements\n\n• Added: Support for new audio formats.\n• Improved: Performance optimizations for faster processing.\n• Improved: User interface enhancements for better usability.\n• Maintenance: Bug fixes and stability improvements.",
+  "changelog": "- UI compactness + dark styling improvements\n- Minor polish and stability fixes",
   "release_date": "2026-01-31",
   "urgent": false,
   "message": ""
