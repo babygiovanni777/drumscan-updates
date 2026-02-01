@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
+  "version": "2.2.0",
   "min_version": "1.0.0",
-  "download_url": "https://github.com/babygiovanni777/drumscan/releases/latest",
-  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v1.3.0/drumscan-mac.zip",
-  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v1.3.0/drumscan.exe",
-  "changelog": "- UI compactness + dark styling improvements\n- Minor polish and stability fixes",
-  "release_date": "2026-01-31",
+  "download_url": "https://github.com/babygiovanni777/drumscan/releases/tag/v2.2.0",
+  "download_mac": "https://github.com/babygiovanni777/drumscan/releases/download/v2.2.0/drumscan-mac.zip",
+  "download_win": "https://github.com/babygiovanni777/drumscan/releases/download/v2.2.0/drumscan.exe",
+  "changelog": "- Plan-first workflow + Select & Export\n- Drumkit Maker + flat kit output\n- Clickable log paths + sortable tables\n- Improved reports (new_name populated)\n- BPM/key analysis improvements and safer scanning",
+  "release_date": "2026-02-01",
   "urgent": false,
   "message": ""
 }
